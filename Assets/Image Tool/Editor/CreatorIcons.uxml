@@ -1,0 +1,21 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/Image%20Tool/Editor/CreatorIcons.uss?fileID=7433441132597879392&amp;guid=122f25711f9a1304cab4b85eab9dd7a0&amp;type=3#CreatorIcons" />
+    <SplitView fixed-pane-initial-dimension="150">
+        <ui:VisualElement name="list-items">
+            <ui:Label text="Items" display-tooltip-when-elided="true" class="title" />
+            <ui:ListView focusable="true" name="items" style="flex-grow: 1;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="settings">
+            <ui:Label text="Settings Icon" display-tooltip-when-elided="true" class="title" />
+            <uie:Vector3Field label="Direction Renderer" name="direction" />
+            <uie:Vector2IntField label="Vector2Int" name="size" />
+            <ui:Toggle label="Is Background" name="is-back" />
+            <ui:VisualElement name="container-image" style="align-items: center;">
+                <ui:VisualElement name="image" class="image-background" />
+            </ui:VisualElement>
+            <ui:VisualElement name="button-tab" style="flex-direction: row; justify-content: space-around;">
+                <ui:Button text="Save Icon" display-tooltip-when-elided="true" name="save-icon" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </SplitView>
+</ui:UXML>

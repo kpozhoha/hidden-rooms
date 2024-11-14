@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7979a4ce21dfef84b8420909ae8aa7ce, type: 3}
+  m_Name: Tutor Data
+  m_EditorClassIdentifier: 
+  m_TutorList:
+  - Type: 13
+    moveCharacter: 0
+    IsMask: 1
+    IsEndTutor: 0
+    IsMaskot: 0
+    _textsTutor:
+    - swipe  your screen
+  - Type: 14
+    moveCharacter: 0
+    IsMask: 1
+    IsEndTutor: 0
+    IsMaskot: 0
+    _textsTutor:
+    - 
+    - zoom in/out
+  - Type: 8
+    moveCharacter: 0
+    IsMask: 1
+    IsEndTutor: 0
+    IsMaskot: 0
+    _textsTutor:
+    - tap
+  - Type: 9
+    moveCharacter: 3
+    IsMask: 0
+    IsEndTutor: 0
+    IsMaskot: 1
+    _textsTutor:
+    - 
+    - Hi, my name is Max!
+    - "I\u2019m your assistant in the game."
+  - Type: 10
+    moveCharacter: 0
+    IsMask: 1
+    IsEndTutor: 0
+    IsMaskot: 1
+    _textsTutor:
+    - 'Press the MENU. '
+  - Type: 0
+    moveCharacter: 0
+    IsMask: 0
+    IsEndTutor: 0
+    IsMaskot: 1
+    _textsTutor:
+    - "Now, let\u2019s go to MY ROOMS. "
+  - Type: 2
+    moveCharacter: 0
+    IsMask: 1
+    IsEndTutor: 0
+    IsMaskot: 1
+    _textsTutor:
+    - "Now, let\u2019s go to MY ROOMS. "
+  - Type: 5
+    moveCharacter: 0
+    IsMask: 0
+    IsEndTutor: 0
+    IsMaskot: 1
+    _textsTutor:
+    - 'Here is your own room. '
+    - You can buy some furniture and equip your room.
+  - Type: 5
+    moveCharacter: 0
+    IsMask: 1
+    IsEndTutor: 0
+    IsMaskot: 1
+    _textsTutor:
+    - Press SHOP.
+  - Type: 6
+    moveCharacter: 0
+    IsMask: 0
+    IsEndTutor: 0
+    IsMaskot: 1
+    _textsTutor:
+    - Here, you can find furniture and buy it.
+    - "Let\u2019s buy a sofa."
+  - Type: 6
+    moveCharacter: 3
+    IsMask: 1
+    IsEndTutor: 0
+    IsMaskot: 1
+    _textsTutor:
+    - Click on it.
+  - Type: 12
+    moveCharacter: 2
+    IsMask: 1
+    IsEndTutor: 0
+    IsMaskot: 1
+    _textsTutor:
+    - 'Go back to your room. '
+  - Type: 3
+    moveCharacter: 1
+    IsMask: 1
+    IsEndTutor: 0
+    IsMaskot: 1
+    _textsTutor:
+    - Click on the INVENTORY.
+  - Type: 4
+    moveCharacter: 3
+    IsMask: 0
+    IsEndTutor: 0
+    IsMaskot: 1
+    _textsTutor:
+    - Here you can find your furniture which you bought.
+  - Type: 4
+    moveCharacter: 0
+    IsMask: 1
+    IsEndTutor: 0
+    IsMaskot: 1
+    _textsTutor:
+    - 'Click on it. '
+  - Type: 0
+    moveCharacter: 0
+    IsMask: 0
+    IsEndTutor: 0
+    IsMaskot: 1
+    _textsTutor:
+    - Let's put the sofa down. Pull it into the room.
+  - Type: 0
+    moveCharacter: 0
+    IsMask: 0
+    IsEndTutor: 0
+    IsMaskot: 1
+    _textsTutor:
+    - 'Well done! It''s very simple, as you can see. '
+  - Type: 0
+    moveCharacter: 0
+    IsMask: 0
+    IsEndTutor: 1
+    IsMaskot: 1
+    _textsTutor:
+    - I'm going to rest, and you equip your room.
+    - I'll be back soon and see how you're doing! Bye bye
+    - 

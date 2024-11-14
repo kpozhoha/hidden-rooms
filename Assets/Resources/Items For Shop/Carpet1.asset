@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e27a7933c50126b45be6cf845e259e4c, type: 3}
+  m_Name: Carpet1
+  m_EditorClassIdentifier: 
+  _nameItem: Carpet1
+  _sprite: {fileID: 21300000, guid: 93c98425c47bccc47bbb097efe33c7d6, type: 3}
+  _prefab: {fileID: 5769242074122021940, guid: a13ae96884721184480a7abf3c9a7897, type: 3}
+  _price: 0
+  _size: {x: 0, y: 0}
+  _deltaHeight: 0

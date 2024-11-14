@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e27a7933c50126b45be6cf845e259e4c, type: 3}
+  m_Name: CPU
+  m_EditorClassIdentifier: 
+  _nameItem: PC
+  _sprite: {fileID: 21300000, guid: e447f85a6ef300e43886fa7ebb531220, type: 3}
+  _prefab: {fileID: 2417305189713766074, guid: d8d54d8f656e9814aaa0344f626e31ec, type: 3}
+  _price: 100
+  _size: {x: 1, y: 1}
+  _deltaHeight: 20

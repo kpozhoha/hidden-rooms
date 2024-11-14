@@ -1,0 +1,15 @@
+.title {
+    background-color: rgb(34, 34, 34);
+    height: 20px;
+    -unity-text-align: middle-left;
+    padding-left: 10px;
+    -unity-font-style: bold;
+}
+
+.image-background {
+    background-color: rgb(88, 88, 88);
+    width: 256px;
+    height: 256px;
+    align-items: center;
+    justify-content: space-around;
+}
